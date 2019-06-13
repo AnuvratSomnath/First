@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+.logpage {
+  font-family: 'Numans', sans-serif;
+  background-image: url('r.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: -webkit-fill-available;
+  align-content: center;
+  padding-top: 8%;
+  margin-top: -17px;
+
+}
+
+.cards {
+  height: 450px;
+  margin-top: 10px;
+  margin-bottom: auto;
+  width: 500px;
+  background-color: rgba(0, 0, 0, 0.5) !important;
+  padding-top: 30px;
+}
+
+.social_icon span {
+  font-size: 60px;
+  margin-left: 10px;
+  color: #FFC312;
+}
+
+.social_icon span:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.cards-header h3 {
+  color: white;
+}
+
+.social_icon {
+  position: absolute;
+  right: 20px;
+  top: -45px;
+}
+
+.input-group-prepend span {
+  width: 50px;
+  background-color: #FFC312;
+  color: black;
+  border: 0 !important;
+}
+
+input:focus {
+  outline: 0 0 0 0 !important;
+  box-shadow: 0 0 0 0 !important;
+}
+
+.remember {
+  color: white;
+}
+
+.remember input {
+  width: 20px;
+  height: 20px;
+  margin-left: 15px;
+  margin-right: 5px;
+}
+
+.login_btn {
+  color: black;
+  background-color: #FFC312;
+  width: 100px;
+}
+
+.hint {
+  color: #bfc1c47e;
+}
+
+.hint:hover {
+  color: white;
+  cursor: None;
+}
+
+.links {
+  color: white;
+}
+
+.links a {
+  margin-left: 4px;
+}

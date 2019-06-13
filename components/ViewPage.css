@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.view_main {
+  background-image: url(back2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 20px;
+  font-size: 17px;
+  margin-top: -35px
+}
